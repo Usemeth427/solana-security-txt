@@ -217,7 +217,7 @@ dependencies = [
  "anchor-attribute-account",
  "anchor-attribute-constant",
  "anchor-attribute-error",
- "anchor-attribute-event",
+ "anchor-attribute-e17d47ce914bf4de440332250b0edd23ce48c005f59fab39d3335866b114f11a novent",
  "anchor-attribute-interface",
  "anchor-attribute-program",
  "anchor-attribute-state",
